@@ -170,3 +170,34 @@ Dengan konfigurasi ini, aplikasi web saya dapat berjalan dengan lancar pada host
 3. Konfigurasi database di `config.php`
 4. Jalankan di web server (Apache/Nginx)
 5. Akses melalui browser https://naufal122140040-intern.great-site.net
+
+### Lampiran
+
+## Event handling login
+![image](https://github.com/user-attachments/assets/555b64d1-44f4-49e3-a2be-74570930ffd9)
+                                  
+## Event handling Email sudah terdaftar
+![image](https://github.com/user-attachments/assets/56d34f70-eb92-477d-b6ad-7bacf846f9b4)
+                            
+## Daftar Akun
+![image](https://github.com/user-attachments/assets/5ae9c496-0fdd-43e7-8505-b108a5825f5a)
+                                      
+## Berhasil Login
+![image](https://github.com/user-attachments/assets/a9ebfe48-f62b-4d31-b11e-3ccb82ec1cbf)
+                                    
+## Event Handling NIM 
+![image](https://github.com/user-attachments/assets/fa8d01e8-0b33-47d0-867f-b5de6593f404)
+
+## menampilkan Data Mahasiswa
+![image](https://github.com/user-attachments/assets/b2a6d44d-c0c9-42b8-8435-6c50eb21fc71)
+
+## Tampilan Edit Data
+![image](https://github.com/user-attachments/assets/78508ecb-cb8a-4dc8-b62c-044bb483f98a)
+
+## Data Berhasil di edit
+![image](https://github.com/user-attachments/assets/73c9885b-84a0-42a2-b56d-23bb04c2fdcc)
+
+## Hapus Data
+![image](https://github.com/user-attachments/assets/ad7711ab-60a5-4d32-86ac-e14d8b627fee)
+
+
